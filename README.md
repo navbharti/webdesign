@@ -1,4 +1,4 @@
-# Introduction to HTML & CSS
+# Introduction to HTML5 & CSS3
 
 **Objective**: To develop the skill and Knowledge of static Web Page Design and Creation. This training program will facilitate the basic conceptual and Hands-on session for understanding like *Static vs Non-Static Web Page*, *Server vs Client* concept, *WWW*, *Markup Language*, *text formatting* in Web page, *Basics of HTML5*, *Basics of XAMMP (Server*) web development tool.
 
