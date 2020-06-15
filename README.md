@@ -63,3 +63,4 @@ The duration of this program shall be One Week long and each day 3 Hours.
 *	Drag & Drop
 *	Understating structure of Website Templet
 
+HTML updated code moved here: [HTML updated code moved here](https://github.com/navbharti/https---github.com-navbharti-webdesign/tree/master/html/)
