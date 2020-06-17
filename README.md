@@ -20,7 +20,7 @@ The duration of this program shall be One Week long and each day 3 Hours.
 
 **Time**: 9:30 AM to 12:30 PM
 
-**Day One**:
+**Day One**: [Presentation](https://github.com/navbharti/https---github.com-navbharti-webdesign/blob/master/html/ppt/day%20one.pptx)
 *	Understanding of Internet and World Wide Web
 *	Introduction Web Browser
 *	Basics of website development 
@@ -28,7 +28,7 @@ The duration of this program shall be One Week long and each day 3 Hours.
 *	Introduction to HTML
 *	Creating a simple HTML page
 
-**Day Two**:
+**Day Two**: [Presentation](https://github.com/navbharti/https---github.com-navbharti-webdesign/blob/master/html/ppt/day%20two.pptx)
 *	HTML Documents
 *	Basic structure of an HTML document
 *	Creating HTML document 
