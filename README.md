@@ -36,12 +36,12 @@ The duration of this program shall be One Week long and each day 3 Hours.
 *	Line Breaks
 *	HTML Tags
 
-**Day Three**:
+**Day Three**: [Presentation](https://github.com/navbharti/https---github.com-navbharti-webdesign/blob/master/html/ppt/day%20three.pptx)
 *	Working with Text
 *	Working with Lists, Tables
 *	Working with Hyperlinks, Images
 
-**Day Four**:
+**Day Four**: [Presentation](https://github.com/navbharti/https---github.com-navbharti-webdesign/blob/master/html/ppt/day%20four.pptx)
 *	Concept of CSS
 *	Creating Stylesheet
 *	CSS Properties
