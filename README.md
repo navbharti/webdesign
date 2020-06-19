@@ -48,7 +48,7 @@ The duration of this program shall be One Week long and each day 3 Hours.
 *	CSS Styling (Background, Text Format, Controlling Fonts)
 *	Styling with Lists and Tables
 *	CSS Ids and Class
-*	CSS Color
+*	[CSS Color](https://www.w3schools.com/colors/colors_names.asp)
 *	Creating Page Layout and Site Designs
 
 **Day Five**:
